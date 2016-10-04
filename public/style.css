@@ -1,0 +1,11 @@
+body {
+  font-family: 'Work Sans', sans-serif;
+  margin: 1em;
+  background: "white";
+  color: "gray";
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 2.4em;
+}
